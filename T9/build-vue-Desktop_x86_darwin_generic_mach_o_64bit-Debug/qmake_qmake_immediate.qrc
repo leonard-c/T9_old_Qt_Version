@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="fr_sans_accents.txt">/Users/leonardchanfreau/Documents/ENSTA/2A/IN204/Projet/T9/T9/model/WordList/fr_sans_accents.txt</file>
+</qresource>
+</RCC>
