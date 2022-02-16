@@ -1,4 +1,4 @@
-# IN204 - Projet Composition de SMS type T9 (pour version de Qt inférieur à 5)
+# IN204 - Projet Composition de SMS type T9 (pour version de Qt inférieure à 5)
 
 ## Compilation
 
