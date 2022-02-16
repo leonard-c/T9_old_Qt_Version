@@ -3,7 +3,7 @@
 ######################################################################
 
 TEMPLATE = app
-TARGET = vue
+TARGET = T9
 INCLUDEPATH += .
 
 QT += widgets core
